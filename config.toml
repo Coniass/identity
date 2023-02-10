@@ -1,7 +1,32 @@
 theme = "awesome-identity"
 baseURL = "https://Coniass.com"
 title = "Awesome Identity for Hugo"
+languageCode = "en-US"
+# Content without language indicator will default to this language
+defaultContentLanguage = "en"
+# Make .Summary and .WordCount behave correctly for CJK languages
+hasCJKLanguage = true
+PygmentsCodeFences = true
+# Enable to turn relative URLs into absolute
+canonifyURLs = true
+# Do not convert the url/path to lowercase
+disablePathToLower = false
+# Enable Emoji emoticons support for page content
+enableEmoji = true
+# Update the `Lastmod` parameter for each page using the last git commit date for that content file
+enableGitInfo = true
+# Enable generation of `robots.txt` file
+enableRobotsTXT = true
 
+googleAnalytics = "G-HQKMYZB24J"
+
+## Meta Configurations (HTTP Meta tags & OpenGraph)
+[params.meta]
+  description = "Hobby nerd"
+  keywords = "Coniass,infrastructure, sysadmin, architect"
+  images = [
+    "/images/profile.jpg"
+  ]
 
 ## Profile Configurations
 [params.profile]
@@ -15,11 +40,31 @@ title = "Awesome Identity for Hugo"
 
 My interests also extend to microelectronics, where I develop my own circuit boards for various applications. I like to push the limits of technology and see what's possible, much to the delight of my friends and family who are often the guinea pigs for my latest creations.
   
-I believe that technology has the power to bring people together and make the world a better place. And with my technical know-how and passion for networking, I'm ready to jump in and make a difference. So, if you're in need of a driven and knowledgeable IT professional with a great sense of humor, look no further! I'd love to hear from you.
-  """
+I believe that technology has the power to bring people together and make the world a better place. And with my technical know-how and passion for networking, I'm ready to jump in and make a difference. So, if you're in need of a driven and knowledgeable IT professional with a great sense of humor, look no further! I'd love to hear from you."""
+[params.contacts]
+  email = "	contact@coniass.com"
+  twitter = "Coniass_"
+  keybase = "Coniass"
+  github = "Coniass"
 
-
+## Actions Configurations
+[[params.actions]]
+  name = "Review My CV"
+  url = ""
+  
 ## Footer Configurations
 [params.footer]
   copyright = "© 2019-2020 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    # Make the users’ IP addresses are anonymized within Google Analytics
+    anonymizeIP = false
+    # Make the GA templates respect the “Do Not Track” HTTP header
+    respectDoNotTrack = false
+    # Disable the use of Cookies and use Session Storage to Store the GA Client ID
+    useSessionStorage = false
+	
+	

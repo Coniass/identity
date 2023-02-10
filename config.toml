@@ -1,19 +1,21 @@
 theme = "awesome-identity"
-baseURL = "https://example.com"
+baseURL = "https://Coniass.com"
 title = "Awesome Identity for Hugo"
 
 
 ## Profile Configurations
 [params.profile]
   portrait = "/images/portrait-default.png"
-  firstname = "John"
-  lastname = "Smith"
-  title = "VP of Engineering / Godfather"
-  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
+  firstname = ""
+  lastname = "Coniass"
+  title = "Hobby nerd / IT Student"
+  bio = """Hi there! My name is Coniass and I'm a tech-savvy enthusiast with a passion for networking and all things related. Currently undergoing a school-based training program to become an IT assistant, I'm on a mission to turn my love of technology into a full-fledged career.
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
+  In my free time, I tinker with network technology like a mad scientist in a lab. Whether it's setting up a new network or fixing one that's broken, I relish the challenge and the feeling of satisfaction when everything's running smoothly.
 
-  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+My interests also extend to microelectronics, where I develop my own circuit boards for various applications. I like to push the limits of technology and see what's possible, much to the delight of my friends and family who are often the guinea pigs for my latest creations.
+  
+I believe that technology has the power to bring people together and make the world a better place. And with my technical know-how and passion for networking, I'm ready to jump in and make a difference. So, if you're in need of a driven and knowledgeable IT professional with a great sense of humor, look no further! I'd love to hear from you.
   """
 
 

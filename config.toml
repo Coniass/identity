@@ -18,7 +18,6 @@ enableGitInfo = true
 # Enable generation of `robots.txt` file
 enableRobotsTXT = true
 
-googleAnalytics = "G-HQKMYZB24J"
 
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
@@ -50,7 +49,7 @@ I believe that technology has the power to bring people together and make the wo
 ## Actions Configurations
 [[params.actions]]
   name = "Review My CV"
-  url = ""
+  url = "https://coniass.com/Content/CV.pdf"
   
 ## Footer Configurations
 [params.footer]

@@ -1,6 +1,6 @@
 theme = "awesome-identity"
 baseURL = "https://Coniass.com"
-title = "Awesome Identity for Hugo"
+title = "Coniass - Hobby Nerd / IT Student"
 languageCode = "en-US"
 # Content without language indicator will default to this language
 defaultContentLanguage = "en"
@@ -18,6 +18,8 @@ enableGitInfo = true
 # Enable generation of `robots.txt` file
 enableRobotsTXT = true
 
+# Google Analytics tracking ID
+googleAnalytics = "G-HQKMYZB24J"
 
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
@@ -49,7 +51,7 @@ I believe that technology has the power to bring people together and make the wo
 ## Actions Configurations
 [[params.actions]]
   name = "Review My CV"
-  url = "https://coniass.com/Content/CV.pdf"
+  url = "https://coniass.com/Content/cv.pdf"
   
 ## Footer Configurations
 [params.footer]
@@ -60,10 +62,10 @@ I believe that technology has the power to bring people together and make the wo
   [privacy.googleAnalytics]
     disable = false
     # Make the users’ IP addresses are anonymized within Google Analytics
-    anonymizeIP = false
+    anonymizeIP = true
     # Make the GA templates respect the “Do Not Track” HTTP header
-    respectDoNotTrack = false
+    respectDoNotTrack = true
     # Disable the use of Cookies and use Session Storage to Store the GA Client ID
-    useSessionStorage = false
+    useSessionStorage = true
 	
 	

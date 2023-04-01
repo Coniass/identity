@@ -1,4 +1,4 @@
-theme = "awesome-identity"
+theme = "hugo-awesome-identity-darkmode"
 baseURL = "https://Coniass.com"
 title = "Coniass - Hobby Nerd / IT Student"
 languageCode = "en-US"
@@ -51,7 +51,7 @@ I believe that technology has the power to bring people together and make the wo
 ## Actions Configurations
 [[params.actions]]
   name = "Review My CV"
-  url = "https://coniass.com/Content/cv.pdf"
+  url = "https://coniass.com/content/cv.pdf"
   
 ## Footer Configurations
 [params.footer]

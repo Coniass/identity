@@ -32,16 +32,23 @@ googleAnalytics = "G-HQKMYZB24J"
 ## Profile Configurations
 [params.profile]
   portrait = "/images/portrait-default.png"
-  firstname = ""
+  firstname = "Tim aka"
   lastname = "Coniass"
-  title = "Hobby nerd / IT Student"
-  bio = """Hi there! My name is Coniass and I'm a tech-savvy enthusiast with a passion for networking and all things related. Currently undergoing a school-based training program to become an IT assistant, I'm on a mission to turn my love of technology into a full-fledged career.
+  title = "Hobby nerd / IT Apprentice"
+  bio = """Oh, here we go again with another tech enthusiast – and that’s me, Coniass or Tim! I've got some decent tech skills and a thirst for networking knowledge, but let’s not get too carried away with grandiose claims.
 
-  In my free time, I tinker with network technology like a mad scientist in a lab. Whether it's setting up a new network or fixing one that's broken, I relish the challenge and the feeling of satisfaction when everything's running smoothly.
+With some experience in IT under my belt, I’ve managed to troubleshoot many issues successfully. Setting up networks wasn’t a cakewalk, but I made it through without causing too much chaos. As for being a tech god, well, I might need more certifications and experience for that title.
 
-My interests also extend to microelectronics, where I develop my own circuit boards for various applications. I like to push the limits of technology and see what's possible, much to the delight of my friends and family who are often the guinea pigs for my latest creations.
-  
-I believe that technology has the power to bring people together and make the world a better place. And with my technical know-how and passion for networking, I'm ready to jump in and make a difference. So, if you're in need of a driven and knowledgeable IT professional with a great sense of humor, look no further! I'd love to hear from you."""
+I also have an obsession with microelectronics. You could say I’m a bit of a circuit board maniac, dabbling in electronics like a somewhat eccentric scientist. My friends humor me and become brave testers of my latest creations.
+
+I get a real thrill out of configuring networks and ensuring smooth data transmission. Troubleshooting network issues gives me a sense of accomplishment like no other. My friends are always impressed with my ability to navigate through network challenges.
+
+I must admit, there have been a few “exciting” moments when I nearly accidentally shocked myself. But hey, what’s life without a little shock therapy, right? (Please don’t try this at home, folks!)
+
+If you’re looking for an IT enthusiast with a genuine love for networking, a sprinkle of quirkiness, and a talent for creating electrifying network setups, then I’m the perfect fit for the job. I’ll be your “network magician,” making sure the data flows seamlessly and the connections remain strong. No voltage mishaps on the networking front!
+
+And there you have it – the tech-savvy, networking-loving, microelectronics-obsessed Coniass, ready to take on the IT world with a touch of self-satire!
+"""
 [params.contacts]
   email = "	contact@coniass.com"
   twitter = "Coniass_"
